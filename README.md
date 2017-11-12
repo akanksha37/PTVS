@@ -1,4 +1,4 @@
-# Python tools for Visual Studio
+# Python Tools for Visual Studio
 
 Python support for [Visual Studio 2017](https://aka.ms/PTVS) is developed and managed here.
 
